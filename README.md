@@ -6,6 +6,6 @@ This is basically a wrapper around fG!'s [MachOView fork](https://github.com/gdb
 Usage
 -----
 ```
-$ sudo get_aslr (pgrep Calculator)
+$ sudo get_aslr $(pgrep Calculator)
 ASLR slide: 0x1787000
 ```
